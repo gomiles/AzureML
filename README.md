@@ -122,6 +122,10 @@ print(response.json())
 ```
 ![image](https://user-images.githubusercontent.com/56161454/158080276-77a32d59-fd8d-4015-90c8-dd0a3afb3350.png)
 
+### Logging the Model
+Since we enabled application insights we are able to have a closer look at the performance and usage:
+![image](https://user-images.githubusercontent.com/56161454/158081644-c74b66b4-6d6d-44c2-bf40-dd615d6a894b.png)
+As we ca see the response time is between 50ms and 175ms and there where 13 sucessfull and 0 failed requests within the last hour 😎
 
 ## Screen Recording
 In this [screencast](https://youtu.be/qqRtPvKxeqA) the deployed model is shown in action.
