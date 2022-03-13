@@ -124,4 +124,4 @@ print(response.json())
 
 
 ## Screen Recording
-In this [screencast]() the deployed model is shown in action.
+In this [screencast](https://youtu.be/qqRtPvKxeqA) the deployed model is shown in action.
